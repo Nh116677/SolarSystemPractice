@@ -6,6 +6,6 @@ public class SolarSystem{
         BB.Stars="10";
         BB.Sun="1";
 
-        System.out.println("Solar System is ready");
+        System.out.println("Solar System is ready to Test");
     }
 }
