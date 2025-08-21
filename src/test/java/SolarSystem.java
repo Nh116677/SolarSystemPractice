@@ -21,6 +21,6 @@ public class SolarSystem{
         Planet2 Dros = new Planet2();
         Dros.Color= "red";
         Dros.Radius = "325345t4miles";
-
+// new feature
     }
 }
